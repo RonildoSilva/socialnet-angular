@@ -44,3 +44,13 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+# Sistema / editores
+desktop.ini
+*.swp
+*.swo
+*~
+.~lock*#
+# Node
+node_modules/
+dist/
+.env
